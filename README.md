@@ -1,2 +1,1 @@
-# lightBox
-A basic lightbox solution.
+# A basic lightbox solution
